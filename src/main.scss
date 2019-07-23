@@ -1,0 +1,9 @@
+$color-primary: red;
+
+.app {
+  background-color: $color-primary;
+
+  &__title {
+    color: yellow
+  }
+}
